@@ -1,0 +1,1065 @@
+/* For Tabs */
+/* @media screen and (min-width: 768px) and (max-width: 1024px){
+
+} */
+
+
+/* @media screen and (min-width: 1200px) and (max-width: 1365px){
+
+} */
+
+
+/* For 480px */
+@media screen and (max-width: 767px){
+
+.container{
+    padding-left: 1rem !important;
+    padding-right: 1rem !important;
+} 
+
+.cliental-box{
+    width: 91%;
+}
+
+
+
+.social-responsibility{
+    padding-top: 5rem;
+}
+
+.quality-heading{
+    text-align: left;
+}
+
+.post-full .post-date{
+    top: 24px;
+    left: 19rem;
+}
+
+.company-heading::before {
+    content: "";
+    border-bottom: solid #DE2741 3px;
+    width: 74px;
+    position: absolute;
+    margin-top: -0.3em;
+}
+
+.blogs{
+    padding-top: 1rem;
+    padding-bottom: 2.5rem;
+}
+
+.blogs-moto-mob{
+    width: min-content;
+}
+
+.forms{
+    padding-top: 2.5rem;
+    padding-bottom: 5.5rem;
+}
+
+a.first-right-img>h2{
+    font: normal normal bold 1.375rem Bicyclette;
+}
+
+div.forms-para>p{
+    font: normal normal normal 0.875rem Work Sans;
+}
+
+.forms-para{
+    padding-top: 0 !important;
+}
+
+div.forms-heading>h2.selector{
+    margin-bottom: 30px !important;
+}
+
+a.first-right-img>p{
+    font: normal normal normal 0.875rem Work Sans;
+}
+
+.owl-testimonial .owl-dots{
+    left: 34%;
+    bottom: -8% !important;
+    display: block !important;
+}
+
+.page-heading{
+    font: normal normal bold 2.625rem Bicyclette;
+}
+
+.selector::before{
+    margin-top: -0.3em;
+}
+
+.inner-testimonials-bg-img{
+    background: none;
+}
+
+.button{
+    padding: 0.625rem 1rem !important;
+}
+
+.write-us-message{
+    font: normal normal normal 14px Bicyclette;
+}
+
+.partner-with-us{
+    font: normal normal bold 0.875rem Bicyclette;
+}
+
+.get-a-quote{
+    font: normal normal bold 0.875rem Bicyclette;
+}
+
+.making-healthcare-moto::before{
+    margin-top: -0.3em;
+}
+
+/* Menu start */
+.navbar-light .navbar-toggler{
+    
+    border: unset !important;
+}
+
+.quality-heading{
+    padding-bottom: 0 !important;
+}
+
+.navbar-toggler:focus{
+    box-shadow: unset !important;
+}
+/* Menu End */
+    /* Banner Start */
+section.banner{
+    height: 60vh;
+}
+
+.accordion-button::after{
+    width: 0.75rem !important;
+    height: 0.75rem !important;
+    background-size: contain !important;
+}
+
+section.banner>div.container>h3{
+    bottom: 0rem ;
+    font: normal normal normal 2.375rem Bicyclette;
+}
+/* Banner End */
+
+.accordion-button{
+    background: transparent !important;
+}
+
+.accordion-item{
+    background: transparent !important;
+    border-bottom: 1px solid #fff !important;
+}
+
+.accordion-flush .accordion-item:last-child{
+border-bottom: 0 !important;
+}
+
+.accordion-button:focus{
+    border-color: unset !important;
+    box-shadow: unset !important;
+}
+
+.accordion-button:not(.collapsed){
+    border-color: unset !important;
+    color: #FDFFFC !important;
+    box-shadow: none !important;
+}
+
+div.accordion-body > ul > li > a{
+    color: #FDFFFC !important;
+}
+
+.accordion-button:not(.collapsed)::after{
+    background-image: url('../img/footer_minus.svg') !important;
+    transform: none !important;
+}
+
+.accordion-button::after{
+    background-image: url('../img/footer_plus.svg') !important;
+}
+
+.company-profile{
+    padding-bottom: 5.9rem;
+}
+
+.quality-assurance{
+    padding-top: 0 !important;
+    padding-bottom: 2.9rem;
+}
+
+.accordion-button{
+    font: normal normal bold 0.875rem Work Sans !important;
+    letter-spacing: 0px !important;
+    color: #FFFFFF !important;
+    opacity: 1 !important;
+}
+/* Services section start */
+
+div.services-carousel-heading>h2{
+    font: normal normal bold 1.6rem Bicyclette;
+}
+
+div.social-responsibility-para>p{
+    font: normal normal normal 1rem Work Sans;
+}
+
+.social-responsibility-para{
+    padding-top: 0.625rem;
+}
+
+.owl-soc-mob{
+    padding-right: 0px !important;
+}
+
+.social-card-heading{
+    font: normal normal bold 1.375rem Bicyclette !important;
+}
+
+.blog-mob-row{
+    display: flex !important;
+      flex-wrap: nowrap !important;
+      padding-left: 0 !important;
+      overflow-x: scroll;
+      overflow-y: hidden;
+  }
+
+  .blog-mob-row::-webkit-scrollbar{
+    display: none;
+  }
+
+.social-card-para{
+    font: normal normal normal 0.875rem Work Sans;
+}
+
+.quality-para{
+    text-align: left;
+    font: normal normal normal 1rem Work Sans;
+    padding-top: 10px;
+}
+
+.mission-para{
+    font: normal normal normal 1rem Work Sans;
+}
+
+.card-mission-para{
+    font: normal normal normal 1rem Work Sans;
+}
+
+.leaders-para{
+    font: normal normal normal 1rem Work Sans;
+}
+
+div.products-one-heading>h2{
+    font: normal normal bold 1.75rem Bicyclette;
+}
+
+.carousel-section{
+    padding-bottom: 1rem;
+}
+
+div.explore-more>p{
+    font: normal normal bold 1rem Bicyclette;
+}
+
+.usp-right-img{
+    padding-top: 1rem;
+}
+
+div.carousel-item__card > div.explore-more > button.btn-circle-sm{
+    margin-top: 0.39rem;
+}
+
+.owl-services .owl-dots .owl-dot.active span {
+    width: 22px !important;
+    height: 10px;
+    background-color: #de2741 !important;
+}
+
+.owl-services .owl-dots .owl-dot span {
+    
+    background: transparent !important;
+    border: 1px solid #de2741;
+    margin: 5px 5px !important;
+}
+
+.leaders-heading{
+    padding-top: 1.5rem;
+}
+
+.owl-mission .owl-dots{
+    top: 25.5rem;
+    left: 13px;
+}
+
+/* Services section end */
+
+/* About Start */
+section.about-us>div.container>h3{
+    font: normal normal bold 2.625rem Bicyclette ;
+}
+
+.about-video{
+    height: 24rem;
+}
+
+div.years-of-experince>h3{
+    font: normal normal bold 6.25rem Bicyclette;
+}
+
+div.about-info>p{
+    font: normal normal normal 1rem Work Sans;
+}
+
+div.thirty-plus>p{
+    font: normal normal normal 2rem Bicyclette;
+}
+
+.about-col{
+    padding-left: 0.75rem !important;
+    padding-right: 0.75rem !important;
+}
+
+div.thirty-plus-col > div.d-flex{
+    justify-content: flex-start;
+    
+}
+
+.about-us{
+    padding-top: 5.9rem;
+    padding-bottom: 3.4rem;
+}
+
+.about-button{
+    padding-top: 1rem;
+}
+
+.thirty-plus-col{
+    padding-top: 1rem;
+}
+
+.about-info{
+    padding-top: 0.5rem;
+}
+/* About End */
+
+/* Products Section Start */
+.making-healthcare-moto::before{
+    left: 8.9rem;
+}
+/* Products Section End */
+
+.navbar-nav{
+    padding-left: 0 !important;
+}
+
+.teams-heading{
+    padding-bottom: 0.8rem;
+}
+
+.drop-bar{
+    padding-bottom: 1rem !important;
+    padding-top: 1rem !important;
+}
+
+.navbar-collapse{
+    height: 24rem;
+}
+
+.nav-tabs .nav-link{
+    height: 3rem;
+    min-width: 7rem;
+}
+
+.products-nav{
+    display: flex !important;
+    flex-wrap: nowrap !important;
+    padding-left: 0 !important;
+    overflow-x: scroll;
+    overflow-y: hidden
+    
+}
+
+.products-nav::-webkit-scrollbar{
+    display: none;
+}
+
+.navbar-collapse {
+    flex-basis: 100%;
+    flex-grow: 1;
+    align-items: center;
+    background: #fff;
+    height: auto;
+    padding: 1rem 0 2rem;
+}
+
+/* Carousel section start */
+.carousel-section{
+    padding-top: 2.5rem;
+    padding-bottom: 2rem;
+}
+
+div.carousel-container>h2.selector{
+    font: normal normal bold 2.625rem Bicyclette;
+}
+/* Carousel section end */
+
+.owl-mission.owl-item{
+
+}
+
+.usp{
+    padding-top: 5.9rem;
+}
+
+div.flowers-wrap > p::before{
+    left: 1rem;
+}
+
+.flowers-wrap::after{
+    display: none;
+}
+
+.teams{
+    padding-top: 0rem;
+    padding-bottom: 9.5rem;
+}
+
+
+
+.intro-para{
+    font: normal normal normal 1rem Work Sans;
+}
+
+div.col-md-6.para-cols > p{
+    font: normal normal normal 1rem Work Sans;
+}
+
+.para-cols{
+    padding-top: 10px;
+}
+
+.usp-main-cols{
+    padding-top: 0 !important;
+}
+
+.teams-image-back{
+    height: 26.3rem;
+}
+
+.owl-team .owl-nav{
+    right: 8rem;
+    bottom: -4.1rem;
+}
+
+.inner-mission-img{
+    background-image: none;
+    padding-bottom: unset !important;
+}
+
+
+
+.mission-row{
+    padding-top: 1rem;
+}
+
+/* Products Section Start */
+div.making-healthcare-heading>h2{
+    font: normal normal bold 2.625rem Bicyclette;
+}
+
+.making-healthcare-heading{
+    padding-bottom: 1rem;
+}
+
+.products-one-heading{
+    padding-top: 1rem;
+}
+
+.products-one-para{
+    padding-top: 1rem;
+}
+
+.view-details{
+    padding-top: 1rem;
+}
+
+.products-carousel .owl-item img{
+    width: 16rem !important;
+    height: 100%;
+}
+
+.products-profile-carousel .owl-item img{
+    width: 16rem !important;
+    height: 100%;
+}
+
+.products-contact-carousel .owl-item img{
+    width: 16rem !important;
+    height: 100%;
+}
+
+.products-covidcare-carousel .owl-item img{
+    width: 16rem !important;
+    height: 100%;
+}
+/* Products Section End */
+
+.button:not(:first-of-type) {
+    margin-left: 45px;
+  }
+
+  .one-power{
+    display: block !important;
+  }
+
+  .two-power{
+    justify-content: space-around;
+  }
+
+  .mission-second-col{
+    padding-left: 0.5rem !important;
+    padding-right: 0.5rem !important;
+  }
+
+  .mission-carousel{
+    width: 100%;
+    box-shadow: none;
+  }
+
+  .mission-item{
+    padding: 25px 25px 20px 15px;
+  }
+
+  .left-usp-cols{
+    padding-right: 0.8rem !important;
+    padding-top: 3.75rem !important;
+  }
+
+  .left-block-card:hover .usp-servives{
+    top: unset !important;
+  }
+
+  .usp-servives{
+    position: unset !important;
+  }
+  .left-block-card{
+    height: auto;
+  }
+
+  .right-usp-cols{
+    padding-top: 3.75rem !important;
+  }
+
+  .cliental-button.forms-button.home-forms{
+margin-top: 0 !important;
+padding-top: 60px !important;
+  }
+
+  .mob-explore-contact{
+    padding-top: 5rem;
+    padding-bottom: 5rem;
+  }
+
+  .free-sale-view{
+    padding-right: 8px;
+    font: normal normal bold 1.25rem Bicyclette !important;
+    letter-spacing: 0px;
+    color: #338FBE;
+    opacity: 1;
+  }
+
+  .wholesale-mob-para{
+    font: normal normal 600 20px Work Sans !important;
+  }
+
+  .wholesale-mob-para{
+    margin-top: 1rem;
+  }
+
+  .inner-mission-img{
+    padding-top: 2.5rem;
+  }
+
+  .right-block-card{
+    height: auto;
+  }
+
+  .right-crd-para{
+    text-align: left;
+    font: normal normal normal 1rem Work Sans;
+    letter-spacing: 0px;
+    color: #2D2E2E;
+    opacity: 1;
+  }
+
+  .left-crd-para{
+    text-align: left;
+    font: normal normal normal 1rem Work Sans;
+    letter-spacing: 0px;
+    color: #2D2E2E;
+    opacity: 1;
+  }
+
+  p.left-crd-para > img{
+    padding-right: 0.5rem;
+  }
+
+  p.right-crd-para > img{
+    padding-right: 0.5rem;
+}
+
+.explore-img-right{
+    border-top-left-radius: 12px;
+    border-bottom-left-radius: 12px;
+}
+
+.explore-img-left{
+    border-top-right-radius: 12px;
+    border-bottom-right-radius: 12px;
+}
+
+.inner-explore-rblock::after{
+    display: none;
+}
+
+.contact-col{
+    padding-left: 1rem !important;
+}
+
+.explore-col{
+    padding-right: 1rem !important;
+}
+
+.left-mob-explore{
+    width: 100%;
+    height: auto;
+    border-top-right-radius: 12px;
+    border-bottom-right-radius: 12px;
+}
+
+.right-mob-explore{
+    width: 100%;
+    height: auto;
+    border-top-left-radius: 12px;
+    border-bottom-left-radius: 12px;
+}
+
+.left-explore-mob-block{
+    position: relative;
+}
+
+.right-explore-mob-block{
+    position: relative;
+}
+
+div.left-explore-mob-block > p{
+    position: absolute;
+    top: 2.438rem;
+    left: 17px;
+    text-align: left;
+    font: normal normal bold 30px Bicyclette;
+    letter-spacing: 0px;
+    color: #FDFFFC;
+    opacity: 1;
+}
+
+div.right-explore-mob-block > p{
+    position: absolute;
+    top: 2.438rem;
+    left: 17px;
+    text-align: left;
+    font: normal normal bold 30px Bicyclette;
+    letter-spacing: 0px;
+    color: #FDFFFC;
+    opacity: 1;
+}
+
+
+
+.mob-partner-with-us{
+    bottom: 4.125rem;
+    position: relative;
+    left: 17px;
+    border: 1px solid #FFFFFF;
+    border-radius: 4px;
+    color: #FFFFFF;
+}
+/* Clental Section Start */
+.cliental-mob-space-left{
+    border-top: 1px solid #cccccc;
+    border-bottom: 1px solid #cccccc;
+    border-right: 1px solid #cccccc;
+}
+
+div.client-space > img{
+    width: 70%;
+    height: auto;
+}
+
+.cliental-mob-space-right{
+    border-top: 1px solid #cccccc;
+    border-bottom: 1px solid #cccccc;
+    
+}
+
+.cliental-mob-space{
+    border-right: 1px solid #cccccc;
+}
+
+.cliental-mob-space-bottom{
+    border-right: 1px solid #cccccc;
+}
+
+.cliental-section{
+    padding-top: 2rem;
+}
+
+div.cliental-heading>h2{
+    font: normal normal bold 2.625rem Bicyclette;
+    
+}
+
+
+
+.testimonials-heading{
+    font: normal normal bold 2.625rem Bicyclette;
+}
+
+.testimonials{
+    height: auto;
+    padding-bottom: 4.5rem;
+    padding-left: 5px;
+    padding-right: 5px;
+}
+
+.owl-testimonial{
+    padding-top: 1rem;
+}
+
+.testimonials-heading{
+    padding-top: 4rem;
+}
+
+.cliental-moto::before{
+    margin-top: -0.3em;
+}
+/* Cliental Section end */
+
+/* Form Section Start */
+.email-form-control{
+    width: 58% !important;
+}
+/* Form Section End */
+
+.stacked-hsil-logo{
+    width: 90%;
+    height: auto;
+}
+
+.intro.intro-about-us{
+    padding-top: 6rem !important;
+    padding-bottom: 3rem !important;
+}
+
+.post-full .post-entry{
+    padding: 0px 0 50px;
+}
+
+.follow-inside-list{
+    width: 100%;
+    justify-content: unset;
+}
+
+ul.follow-inside-list > li{
+    width: 2.5rem;
+}
+
+.company-col{
+    padding-top: 5rem;
+}
+
+.footer{
+    padding-top: 4rem;
+}
+
+div.footer-heading>h2{
+    font: normal normal bold 1.6rem Bicyclette;
+}
+
+.email-button{
+    padding-top: 10px;
+    padding-right: 1rem;
+    justify-content: space-between;
+}
+
+div.explore-more.email-button > button.view-details-btn{
+    width: 32px !important;
+    height: 32px !important;
+}
+
+.logo-stacked-row{
+    justify-content: center;
+    padding-bottom: 1rem;
+}
+
+p.footer-sub-heading{
+    text-align: center;
+    font: normal normal normal 1.2rem Work Sans;
+}
+
+ul.sub-footer-list>li{
+    text-align: center;
+}
+
+.follow-social-block{
+    padding-top: 1.3rem;
+    padding-left: 1rem;
+}
+
+.copyright-para{
+    text-align: center;
+}
+
+.email-address{
+    justify-content: space-between;
+}
+
+.help-faq{
+    font: normal normal normal 1.2rem Work Sans !important;
+}
+
+div.forms-heading>h2.selector{
+    font: normal normal bold 2.625rem Bicyclette;
+}
+
+.back-video{
+    height: 100%;
+    width: auto;
+}
+
+.cliental-button{
+    padding-top: 36px;
+}
+
+div.social-responsibility-heading>h2{
+    font: normal normal bold 2.625rem Bicyclette;
+}
+
+.c-mob-spc-bottom{
+    border-bottom: unset !important;
+}
+
+/* About Us Page Start*/
+.quality-heading::before{
+    left: 1.25rem;
+}
+
+.title-explore{
+    width: unset;
+}
+
+.intro.py-5{
+    padding-top: 5rem;
+    padding-bottom: unset !important;
+}
+
+.intro.intro-blog-grid{
+    padding-bottom: 0 !important;
+    padding-top: 6rem !important;
+}
+
+.intro.intro-single-blog{
+    padding-top: 6rem !important;
+}
+
+.intro.intro-contact{
+    padding-top: 6rem !important;
+}
+
+.intro.intro-csr{
+    padding-bottom: 0 !important;
+    padding-top: 6rem !important;
+}
+
+.intro.intro-careers{
+    padding-top: 6rem !important;
+}
+
+.intro-privacy{
+    padding-bottom: 0 !important;
+}
+
+.intro-heading{
+    font: normal normal bold 2.625rem Bicyclette;
+}
+
+.company-heading{
+    font: normal normal bold 2.625rem Bicyclette;
+}
+
+.mission-heading{
+    font: normal normal bold 2.625rem Bicyclette;
+}
+
+.quality-heading{
+    font: normal normal bold 2.625rem Bicyclette;
+}
+
+.teams-heading{
+    font: normal normal bold 2.625rem Bicyclette;
+}
+
+.usp-heading{
+    font: normal normal bold 2.625rem Bicyclette;
+}
+/* About Us Page End*/
+}
+
+/* For 1920 x 1080 */
+@media screen and (min-width: 1900px) and (max-width: 1950px){
+    .about-button{
+        padding-top: 100px;
+    }
+
+    .carousel-container{
+        max-width: 67.5%;
+    }
+
+    .making-healthcare-moto::before{
+        left: 37.9rem;
+    }
+
+    .inner-blog-lg{
+        height: 41.39rem;
+        width: 100%;
+    }
+
+    section.social-responsibility > div.container-fluid{
+        padding-left: 10rem;
+    }
+
+    .owl-social .owl-nav{
+        right: 63.5rem;
+    }
+
+    .owl-testimonial .owl-nav{
+        left: -35.3rem;
+    }
+
+    div.inner-testimonials-bg-img > div.container-fluid{
+        padding-left: 10rem;
+    }
+
+    .email-address{
+        display: flex;
+    justify-content: space-between;
+    }
+
+    .email-button{
+        padding-right: 0.5rem;
+    }
+
+
+    .main-explore{
+        position: relative;
+    margin-top: 50px;
+    width: 100%;
+    height: 379px;
+    }
+
+    .explore-img-left {
+        position: absolute;
+        width: 100%;
+        height: 100%;
+        left: 0;
+    }
+
+    .title-explore {
+        position: absolute;
+        width: 500px;
+        left: 23px;
+        top: 141px;
+       
+        z-index: 1;
+        transition: top .5s ease;
+        text-align: left;
+        font: normal normal bold 53px Bicyclette;
+        letter-spacing: 0px;
+        color: #FDFFFC;
+        opacity: 1;
+    }
+
+    .inner-explore {
+        position: absolute;
+        top: 0;
+        left: 0;
+        width: 100%;
+        height: 100%;
+        background: rgba(0, 0, 0, 0);
+        transition: background 0.5s ease;
+    }
+
+    .button-explore {
+        position: absolute;
+        width: auto;
+        left: 28px;
+        top: 19rem;
+        text-align: center;
+        opacity: 0;
+        transition: top .5s ease;
+    }
+    
+    
+
+    .main-explore:hover .title-explore {
+        top: 80px;
+    }
+
+    .main-explore:hover .button-explore {
+        top: 15rem;
+    }
+
+    .cliental-box::after{
+        top: 99%;
+    }
+
+    .cliental-box{
+        width: 97%;
+    height: 20rem;
+    }
+
+    .teams-image-back{
+        height: 49.9rem;
+    }
+
+    .owl-team .owl-nav{
+        bottom: 55rem;
+    }
+
+    .leaders-para{
+        font: normal normal normal 1.45rem Work Sans;
+    }
+
+    .leaders-heading{
+        font: normal normal bold 3rem Bicyclette;
+    }
+
+    .sign-img{
+        padding-bottom: 2rem;
+        padding-top: 5rem;
+    }
+
+    .shah-signature{
+        font: normal normal bold 3rem Bicyclette;
+    }
+
+    .designation{
+        font: normal normal normal 2rem Bicyclette;
+    }
+}
